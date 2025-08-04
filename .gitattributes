@@ -3,3 +3,4 @@
 *.ps1 eol=crlf
 *.cmd eol=crlf
 totp/assets/cli/cli_help.txt text eol=crlf
+.github/ merge=ours
